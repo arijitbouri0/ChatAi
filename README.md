@@ -86,6 +86,11 @@ const data = await response.json();
 ![Home Screenshot](https://raw.githubusercontent.com/arijitbouri0/ChatAi/main/public/Screenshot%202025-05-11%20223058.png)
 
 
+## Demo
+
+Check out App Live here
+ 
+https://chat-ai-flame-omega.vercel.app/
 
 
 ## License
